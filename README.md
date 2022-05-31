@@ -36,3 +36,8 @@ Membuat file baru dengan nama **koneksi.php**<br>
 Buka melalui browser untuk menguji koneksi database (untuk menyampilkan pesan
 koneksi berhasil, ***uncomment pada*** perintah echo “koneksi berhasil”;<br>
 ![p](gambar/ss9.png)<br>
+**Membuat file index untuk menampilkan data (Read)**<br>
+Buat file baru dengan nama **index.php**<br>
+![p](gambar/ss10.png)<br>
+![p](gambar/ss10.1.png)<br>
+![p](gambar/ss11.png)
