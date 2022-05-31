@@ -3,18 +3,18 @@
 # NIM   : 312010434
 # Kelas : TI.20.A1
 
-**Langkah-langkah Praktikum**
-**Persiapan**
-<br>Untuk memulai membuat aplikasi CRUD sederhana, yang perlu disiapkan adalah database server menggunakan MySQL. Pastikan MySQL Server sudah dapat dijalankan melalui XAMPP.
+**Langkah-langkah Praktikum**<br>
+**Persiapan**<br>
+<br>Untuk memulai membuat aplikasi CRUD sederhana, yang perlu disiapkan adalah database server menggunakan MySQL. Pastikan MySQL Server sudah dapat dijalankan melalui XAMPP.<br>
 
-**1. Menjalankan MySQL Server**
-<br>Untuk menjalankan MySQL Server dari menu XAMPP Control.
-![p](gambar/ssmysql.png)
+**1. Menjalankan MySQL Server**<br>
+<br>Untuk menjalankan MySQL Server dari menu XAMPP Control.<br>
+![p](gambar/ssmysql.png)<br>
 
-**Mengakses MySQL Client menggunakan PHP MyAdmin**
-<br>Pastikan webserver Apache dan MySQL server sudah dijalankan. Kemudian buka melalui browser: http://localhost/phpmyadmin/
+**Mengakses MySQL Client menggunakan PHP MyAdmin**<br>
+<br>Pastikan webserver Apache dan MySQL server sudah dijalankan. Kemudian buka melalui browser: http://localhost/phpmyadmin/<br>
 
-**2. Membuat Database: Studi Kasus Data Barang**
+**2. Membuat Database: Studi Kasus Data Barang**<br>
 **Membuat Database**<br>
 ![p](gambar/ss1.png)
 **Membuat Tabel**
