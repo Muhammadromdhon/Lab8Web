@@ -47,3 +47,12 @@ Buat file baru dengan nama **tambah.php**<br>
 ![p](gambar/ss12.1.png)<br>
 ![p](gambar/ss12.2.png)<br>
 ![p](gambar/ss13.png)<br>
+![p](gambar/ss14.png)<br>
+**Mengubah Data (Update)**
+Buat file baru dengan nama **ubah.php**
+![p](gambar/ss15.png)<br>
+![p](gambar/ss16.1.png)<br>
+![p](gambar/ss16.2.png)<br>
+![p](gambar/ss16.3.png)<br>
+![p](gambar/ss16.png)<br>
+![p](gambar/ss17.png)<br>
