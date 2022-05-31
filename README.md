@@ -29,4 +29,10 @@ Buat folder **lab8_php_database** pada root directory web server<br>
 ![p](gambar/ssfolder.png)<br>
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/lab8_php_database/<br>
-![p](gambar/ss7.png)
+![p](gambar/ss7.png)<br>
+**Membuat file koneksi database**<br>
+Membuat file baru dengan nama **koneksi.php**<br>
+![p](gambar/ss8.png)<br>
+Buka melalui browser untuk menguji koneksi database (untuk menyampilkan pesan
+koneksi berhasil, ***uncomment pada*** perintah echo “koneksi berhasil”;<br>
+![p](gambar/ss9.png)<br>
