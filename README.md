@@ -16,7 +16,7 @@
 
 **2. Membuat Database: Studi Kasus Data Barang**<br>
 **Membuat Database**<br>
-![p](gambar/ss1.png)
-**Membuat Tabel**
-![p](gambar/ss2.png)
-![p](gambar/ss3.png)
+![p](gambar/ss1.png)<br>
+**Membuat Tabel**<br>
+![p](gambar/ss2.png)<br>
+![p](gambar/ss3.png)<br>
