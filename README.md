@@ -20,3 +20,6 @@
 **Membuat Tabel**<br>
 ![p](gambar/ss2.png)<br>
 ![p](gambar/ss3.png)<br>
+**Menambahkan Data**
+![p](gambar/ss4.png)
+![p](gambar/ss6.png)
