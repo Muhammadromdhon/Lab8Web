@@ -15,7 +15,7 @@
 <br>Pastikan webserver Apache dan MySQL server sudah dijalankan. Kemudian buka melalui browser: http://localhost/phpmyadmin/
 
 **2. Membuat Database: Studi Kasus Data Barang**
-**Membuat Database**
+**Membuat Database**<br>
 ![p](gambar/ss1.png)
 **Membuat Tabel**
 ![p](gambar/ss2.png)
