@@ -56,3 +56,7 @@ Buat file baru dengan nama **ubah.php**<br>
 ![p](gambar/ss16.3.png)<br>
 ![p](gambar/ss16.png)<br>
 ![p](gambar/ss17.png)<br>
+**Menghapus Data (Delete)**<br>
+Buat file baru dengan nama **hapus.php**<br>
+![p](gambar/ss18.png)<br>
+![p](gambar/ss19.png)<br>
