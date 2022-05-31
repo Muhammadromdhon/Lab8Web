@@ -40,4 +40,10 @@ koneksi berhasil, ***uncomment pada*** perintah echo “koneksi berhasil”;<br>
 Buat file baru dengan nama **index.php**<br>
 ![p](gambar/ss10.png)<br>
 ![p](gambar/ss10.1.png)<br>
-![p](gambar/ss11.png)
+![p](gambar/ss11.png)<br>
+**Menambah Data (Create)**<br>
+Buat file baru dengan nama **tambah.php**<br>
+![p](gambar/ss12.png)<br>
+![p](gambar/ss12.1.png)<br>
+![p](gambar/ss12.2.png)<br>
+![p](gambar/ss13.png)<br>
