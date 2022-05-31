@@ -21,5 +21,12 @@
 ![p](gambar/ss2.png)<br>
 ![p](gambar/ss3.png)<br>
 **Menambahkan Data**
-![p](gambar/ss4.png)
-![p](gambar/ss6.png)
+![p](gambar/ss4.png)<br>
+![p](gambar/ss6.png)<br>
+
+**3. Membuat Program CRUD**<br>
+Buat folder **lab8_php_database** pada root directory web server<br>
+![p](gambar/ssfolder.png)<br>
+Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
+http://localhost/lab8_php_database/<br>
+![p](gambar/ss7.png)
